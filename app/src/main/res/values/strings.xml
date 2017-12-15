@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GameApp</string>
+    <string name="text_view_gameslist">Lista de Juegos</string>
+    <string name="game_logo">Logo del Juego</string>
+    <string name="game_name">Nombre del Juego</string>
+    <string name="game_platform">Plataforma</string>
+    <string name="platform_label">Tipo:</string>
+    <string name="description_label">Descripción:</string>
+    <string name="game_description">Descripción del Juego</string>
+    <string name="game_web">Web</string>
+    <string name="game_doc">Documentación</string>
+    <string name="game_forums">Foros</string>
+    <string name="game_bugs">Bugs</string>
+</resources>
